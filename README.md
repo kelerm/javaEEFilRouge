@@ -3,6 +3,9 @@
 _( Embryon d'application qui va permettre la création et la visualisation de clients et de commandes. )_
 
 
+> **Ce projet est fini.**
+
+
 ## Technos :
 - Tomcat 7.0
 - JavaEE 6
